@@ -1,4 +1,4 @@
-# filter duplicates
+# ECR scan on push result
 
 This has all the instructions to get result of scanned docker image in ECR. 
 
